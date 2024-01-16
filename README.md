@@ -9,7 +9,7 @@ $ pkg update
 
 $ pkg upgrade
 
-$ git clone https://github.com/Al2VyN/BotKntD.git
+$ git clone https://github.com/Allviyan/BotKntD.git
 
 $ cd BotKntD
 
